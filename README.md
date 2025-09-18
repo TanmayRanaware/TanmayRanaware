@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanmayRanaware
 - 👀 I’m interested in Software Develeopment
-- 💞️ I’m looking to collaborate on projects based on Blockchain and its application in different areas
+- 💞️ I’m looking to collaborate on projects based on AI Agents, ML and its application in different areas
 - 📫 How to reach me can mail me.(Mail Id- tanmayranware14@gmail.com)
 
 <!---
